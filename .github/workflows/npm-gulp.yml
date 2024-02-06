@@ -24,5 +24,6 @@ jobs:
 
     - name: Build
       run: |
+        pwd
         npm install
         gulp
