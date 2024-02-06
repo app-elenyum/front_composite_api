@@ -24,6 +24,4 @@ jobs:
 
     - name: Build
       run: |
-        pwd
-        npm install
-        gulp
+        cd front_composite_api & npm install
