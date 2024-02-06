@@ -1,0 +1,8 @@
+[
+  {
+    "type": "ModuleInputName",
+    "model": "name",
+    "required": true,
+    "floatLabel": false
+  }
+]

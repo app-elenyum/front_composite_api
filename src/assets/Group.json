@@ -1,0 +1,9 @@
+[
+  {
+    "type": "InputText",
+    "label": "Название группы",
+    "model": "name",
+    "placeholder": "Введите название группы",
+    "required": true
+  }
+]

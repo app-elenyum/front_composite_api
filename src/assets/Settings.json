@@ -1,0 +1,9 @@
+[
+  {
+    "type": "InputText",
+    "label": "Настройки",
+    "model": "name",
+    "placeholder": "Введите название настройки",
+    "required": true
+  }
+]

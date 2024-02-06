@@ -1,0 +1,37 @@
+[
+  {
+    "type": "ColumnInputName",
+    "model": "name",
+    "props": {
+      "disabled": false
+    },
+    "floatLabel": false
+  },
+  {
+    "type": "ColumnInputType",
+    "model": "type",
+    "props": {
+      "disabled": false
+    },
+    "floatLabel": false
+  },
+  {
+    "type": "AccessInput",
+    "model": "group",
+    "floatLabel": false,
+    "props": {
+      "groups": [],
+      "methods": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ]
+    }
+  },
+  {
+    "type": "ValidatorColumnInput",
+    "model": "validator",
+    "floatLabel": false
+  }
+]

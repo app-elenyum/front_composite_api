@@ -1,0 +1,18 @@
+[
+  {
+    "type": "EntityInputName",
+    "model": "name",
+    "required": true,
+    "floatLabel": false
+  },
+  {
+    "type": "EntityInputGroups",
+    "model": "group",
+    "floatLabel": false
+  },
+  {
+    "type": "ValidatorEntityInput",
+    "model": "validator",
+    "floatLabel": false
+  }
+]
